@@ -1,10 +1,10 @@
 ---
-title: "Window function samples"
-date: 2018-08-18 20:20:20 -0400
-categories: SQL inner join
+title: "Practical query blocks"
+date: 2018-05-10 20:20:20 -0400
+categories: Query SQL Bigquery
 ---
 
-Js:
+
 
 
 ```sql

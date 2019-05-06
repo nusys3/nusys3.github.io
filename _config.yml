@@ -19,8 +19,8 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Hacks in life"
 title_separator          : "-"
-name                     : "Daniel Jang"
-description              : "Logs and snippets"
+name                     : "Daniel Jungjin Jang"
+description              : "Logs and snippets on Machine Learning, Data Science and others"
 url                      : "https://nusys3.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -103,8 +103,8 @@ analytics:
 author:
   name             : "Daniel Jungjin Jang"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "Experienced."
+  location         : "Offline"
   email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
