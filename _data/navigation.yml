@@ -1,6 +1,6 @@
 main:
-  - title: "영어 단어 숙어 공부하기"
-    url: /_pages/privacy_policy_KR.md/
+  - title: "개인정보처리방침"
+    url: /privacy_policy_KR/
   - title: "Posts"
     url: /_posts/
   - title: "External Link"
