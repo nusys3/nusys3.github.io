@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "영어단어숙어공부하기 (Simply Search and Watch)"
+title                    : "영어단어숙어공부하기 (Simply voca - simply search and watch)"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "nusys3"
+name                     : "seoullabs.com"
 description              : "일상에 도움이 되는 서비스를 만들고 있습니다."
 url                      : "https://nusys3.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -104,16 +104,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Seoullabs.com"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "일상에 도움이 되는 서비스를 만들고 있습니다."
+  location         : "Seoul, South Korea"
+  email            : "biz.jang@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:biz.jang@gmail.com"
-    - label: "영어단어숙어공부하기(SimplySearchAndWatch)"
+    - label: "영어단어숙어공부하기(Simply Voca)"
       icon: "fas fa-fw fa-link"
       url: "https://nusys3.github.io/"
 
