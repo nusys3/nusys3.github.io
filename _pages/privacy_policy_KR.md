@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: "개인정보처리정책"
 permalink: /privacy_policy_KR/
 ---
