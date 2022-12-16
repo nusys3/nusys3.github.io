@@ -20,7 +20,7 @@ title                    : "영어단어숙어공부하기 (Simply Search and Wa
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "nusys3"
-description              : "An amazing website."
+description              : "일상에 도움이 되는 서비스를 만들고 있습니다."
 url                      : "https://nusys3.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -120,6 +120,9 @@ author:
 # Site Footer
 footer:
   links:
+    - label: "담당자 Email 문의하기"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:biz.jang@gmail.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
