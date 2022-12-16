@@ -1,7 +1,7 @@
 main:
   - title: "개인정보처리방침"
     url: /privacy_policy_KR/
-  - title: "Posts"
-    url: /_posts/
-  - title: "External Link"
-    url: https://google.com
+  # - title: "Posts"
+  #   url: /_posts/
+  # - title: "External Link"
+  #   url: https://google.com
