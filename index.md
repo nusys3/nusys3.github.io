@@ -19,6 +19,9 @@ permalink: /
 ![Image Alt 텍스트](/assets/images/video_next_of_kin.png)
 ![Image Alt 텍스트](/assets/images/image_stain.png)
 
+![Image Alt 텍스트]({{"/assets/images/image_stain.png"| relative_url}})
+
+
 시각과 청각, 그리고 다양한 동영상 속 컨텍스트를 활용하면 단어 암기에 도움이 됩니다. 또한 단어의 개별 발음 뿐 아니라 문장 속에서의 연음 규칙이 적용된 소리와 톤에 익숙해 질 수 있습니다.
 
 이 앱에서 제공하는 기능은 사용자가 구글 검색과 유튜브, 그리고 유글리시(Youglish)라는 서비스를 통해서도 사용할 수 있습니다. 이들 서비스는 아주 유용한 영어 공부 수단입니다.
