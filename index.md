@@ -19,7 +19,7 @@ permalink: /
 ![Image Alt 텍스트](/assets/images/video_next_of_kin.png)
 ![Image Alt 텍스트](/assets/images/image_stain.png)
 
-![Image Alt 텍스트]({{"/assets/images/image_stain.png"| relative_url}})
+![Image Alt 텍스트]({{"/image_stain.png"| relative_url}})
 
 
 시각과 청각, 그리고 다양한 동영상 속 컨텍스트를 활용하면 단어 암기에 도움이 됩니다. 또한 단어의 개별 발음 뿐 아니라 문장 속에서의 연음 규칙이 적용된 소리와 톤에 익숙해 질 수 있습니다.
