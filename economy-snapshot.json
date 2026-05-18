@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-18T21:54:56Z",
+  "generated_at": "2026-05-18T22:10:26Z",
   "countries": {
     "US": {
       "code": "US",
@@ -823,7 +823,7 @@
           "target": "JP",
           "latest": {
             "date": "2026-05-18",
-            "value": 158.744
+            "value": 158.766
           },
           "trend": [
             {
@@ -1080,7 +1080,7 @@
             },
             {
               "date": "2026-05-18",
-              "value": 158.744
+              "value": 158.766
             }
           ],
           "source": "Yahoo:USDJPY=X:fx / identity",
@@ -1091,7 +1091,7 @@
           "target": "KR",
           "latest": {
             "date": "2026-05-18",
-            "value": 1488.22
+            "value": 1488.6
           },
           "trend": [
             {
@@ -1348,7 +1348,7 @@
             },
             {
               "date": "2026-05-18",
-              "value": 1488.22
+              "value": 1488.6
             }
           ],
           "source": "Yahoo:USDKRW=X:fx / identity",
@@ -2110,7 +2110,7 @@
           "target": "JP",
           "latest": {
             "date": "2026-05-18",
-            "value": 23.346423
+            "value": 23.349658
           },
           "trend": [
             {
@@ -2371,7 +2371,7 @@
             },
             {
               "date": "2026-05-18",
-              "value": 23.346423
+              "value": 23.349658
             }
           ],
           "source": "Yahoo:USDCNY=X:fx / Yahoo:USDJPY=X:fx",
@@ -2382,7 +2382,7 @@
           "target": "KR",
           "latest": {
             "date": "2026-05-18",
-            "value": 218.871976
+            "value": 218.927862
           },
           "trend": [
             {
@@ -2643,7 +2643,7 @@
             },
             {
               "date": "2026-05-18",
-              "value": 218.871976
+              "value": 218.927862
             }
           ],
           "source": "Yahoo:USDCNY=X:fx / Yahoo:USDKRW=X:fx",
@@ -2991,7 +2991,7 @@
           }
         ],
         "metrics": {
-          "m2ToGdp": 2547578.7175,
+          "m2ToGdp": 2.275,
           "m2ToM1": 4.3611,
           "growthFromPrevious": 6.81,
           "latestDate": "2024",
@@ -3409,7 +3409,7 @@
           "target": "CN",
           "latest": {
             "date": "2026-05-18",
-            "value": 0.042833
+            "value": 0.042827
           },
           "trend": [
             {
@@ -3670,7 +3670,7 @@
             },
             {
               "date": "2026-05-18",
-              "value": 0.042833
+              "value": 0.042827
             }
           ],
           "source": "Yahoo:USDCNY=X:fx / Yahoo:USDJPY=X:fx",
@@ -3681,7 +3681,7 @@
           "target": "KR",
           "latest": {
             "date": "2026-05-18",
-            "value": 9.374969
+            "value": 9.376063
           },
           "trend": [
             {
@@ -3942,7 +3942,7 @@
             },
             {
               "date": "2026-05-18",
-              "value": 9.374969
+              "value": 9.376063
             }
           ],
           "source": "Yahoo:USDJPY=X:fx / Yahoo:USDKRW=X:fx",
@@ -4704,7 +4704,7 @@
           "target": "CN",
           "latest": {
             "date": "2026-05-18",
-            "value": 0.004569
+            "value": 0.004568
           },
           "trend": [
             {
@@ -4965,7 +4965,7 @@
             },
             {
               "date": "2026-05-18",
-              "value": 0.004569
+              "value": 0.004568
             }
           ],
           "source": "Yahoo:USDCNY=X:fx / Yahoo:USDKRW=X:fx",
@@ -4976,7 +4976,7 @@
           "target": "JP",
           "latest": {
             "date": "2026-05-18",
-            "value": 0.106667
+            "value": 0.106655
           },
           "trend": [
             {
@@ -5237,7 +5237,7 @@
             },
             {
               "date": "2026-05-18",
-              "value": 0.106667
+              "value": 0.106655
             }
           ],
           "source": "Yahoo:USDJPY=X:fx / Yahoo:USDKRW=X:fx",
