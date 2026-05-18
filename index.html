@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Dashboard Snapshot</title>
+  <style>
+:root{color-scheme:dark;--bg:#0e0e0e;--panel:#1c1b1b;--high:#232222;--border:#353534;--text:#fff;--dim:#999;--green:#00ff00;--cyan:#8aeaff;--warn:#ffb800;--bad:#ff4444}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font:14px/1.5 ui-monospace,SFMono-Regular,Menlo,monospace}.page{width:min(1500px,100%);margin:0 auto;padding:24px;display:grid;gap:22px}.hero,.section-head,.card-head{display:flex;align-items:center;justify-content:space-between;gap:16px}.hero{border:1px solid var(--green);padding:18px;background:var(--panel)}h1,h2,h3,p{margin:0}.eyebrow,.section-head span,dt,time{color:var(--dim);font-size:11px;text-transform:uppercase}.section{display:grid;gap:14px;border:1px solid var(--border);padding:16px;background:#151515}.grid{display:grid;gap:12px}.four{grid-template-columns:repeat(auto-fit,minmax(210px,1fr))}.two{grid-template-columns:repeat(auto-fit,minmax(320px,1fr))}.card{border:1px solid var(--border);background:var(--high);padding:14px;display:grid;gap:12px}.card strong{font-size:22px}.metrics{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px;margin:0}.metrics div{border:1px solid var(--border);padding:10px}dd{margin:0;font-weight:700}.positive{color:var(--green)}.negative{color:var(--bad)}.table-wrap{overflow:auto;border:1px solid var(--border)}table{width:100%;border-collapse:collapse;background:var(--panel)}th,td{padding:10px;border-bottom:1px solid var(--border);text-align:left;white-space:nowrap}th{color:var(--dim);font-size:11px}.mix{display:grid;gap:8px}.mix-row{display:flex;justify-content:space-between;gap:12px;border-bottom:1px solid var(--border);padding-bottom:6px}@media(max-width:720px){.page{padding:12px}.hero,.section-head{align-items:flex-start;flex-direction:column}.metrics{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+  <main class="page">
+    <header class="hero">
+      <div>
+        <p class="eyebrow">STATIC DASHBOARD SNAPSHOT</p>
+        <h1>Dashboard Snapshot</h1>
+      </div>
+      <time>2026-05-18 08:47 UTC</time>
+    </header>
+    
+    <section class="section">
+      <div class="section-head"><h2>Economy</h2><span>10Y snapshot by country</span></div>
+      <div class="grid four">
+            <article class="card">
+              <div class="card-head"><span>US</span><strong>United States</strong></div>
+              <dl class="metrics">
+                <div><dt>10Y</dt><dd>4.59%</dd></div>
+                <div><dt>30Y</dt><dd>5.13%</dd></div>
+                <div><dt>Spread</dt><dd class="positive">+0.53pp</dd></div>
+                <div><dt>Index</dt><dd>S&amp;P 500</dd></div>
+                <div><dt>M2</dt><dd>28959.21B</dd></div>
+              </dl>
+            </article>
+            
+            <article class="card">
+              <div class="card-head"><span>CN</span><strong>China</strong></div>
+              <dl class="metrics">
+                <div><dt>10Y</dt><dd>2.12%</dd></div>
+                <div><dt>30Y</dt><dd>2.52%</dd></div>
+                <div><dt>Spread</dt><dd class="positive">+0.40pp</dd></div>
+                <div><dt>Index</dt><dd>SSE Composite</dd></div>
+                <div><dt>M2</dt><dd>306912.92B</dd></div>
+              </dl>
+            </article>
+            
+            <article class="card">
+              <div class="card-head"><span>JP</span><strong>Japan</strong></div>
+              <dl class="metrics">
+                <div><dt>10Y</dt><dd>2.12%</dd></div>
+                <div><dt>30Y</dt><dd>3.15%</dd></div>
+                <div><dt>Spread</dt><dd class="positive">+1.03pp</dd></div>
+                <div><dt>Index</dt><dd>Nikkei 225</dd></div>
+                <div><dt>M2</dt><dd>1628215.60B</dd></div>
+              </dl>
+            </article>
+            
+            <article class="card">
+              <div class="card-head"><span>KR</span><strong>South Korea</strong></div>
+              <dl class="metrics">
+                <div><dt>10Y</dt><dd>3.31%</dd></div>
+                <div><dt>30Y</dt><dd>3.39%</dd></div>
+                <div><dt>Spread</dt><dd class="positive">+0.08pp</dd></div>
+                <div><dt>Index</dt><dd>KOSPI</dd></div>
+                <div><dt>M2</dt><dd>4160355.83B</dd></div>
+              </dl>
+            </article>
+            </div>
+      <div class='table-wrap'><table><thead><tr><th>MKT</th><th>10Y</th><th>CPI</th><th>FX</th><th>INDEX</th><th>1Y</th></tr></thead><tbody><tr><td>US</td><td>4.59%</td><td>3.30%</td><td>USD/CNY</td><td>7,408.50</td><td>+22.68%</td></tr><tr><td>CN</td><td>2.12%</td><td>1.00%</td><td>CNY/USD</td><td>4,131.53</td><td>+22.89%</td></tr><tr><td>JP</td><td>2.12%</td><td>2.60%</td><td>JPY/USD</td><td>60,815.95</td><td>+58.36%</td></tr><tr><td>KR</td><td>3.31%</td><td>2.50%</td><td>KRW/USD</td><td>7,516.04</td><td>+155.07%</td></tr></tbody></table></div>
+    </section>
+    
+    
+    <section class="section">
+      <div class="section-head"><h2>Portfolio</h2><span>long-term investor view</span></div>
+      <div class="grid four">
+        <article class="card"><span class="eyebrow">AUM</span><strong>$813,000.00</strong></article>
+        <article class="card"><span class="eyebrow">Holdings</span><strong>9</strong></article>
+        <article class="card"><span class="eyebrow">Expected Income</span><strong>$874.31</strong></article>
+        <article class="card"><span class="eyebrow">Top Country</span><strong>US</strong></article>
+      </div>
+      <div class="grid two">
+        <article class='card'><h3>Country Mix</h3><div class='mix'><div class='mix-row'><span>US</span><strong>52.0%</strong></div><div class='mix-row'><span>KR</span><strong>48.0%</strong></div></div></article>
+        <article class='card'><h3>Asset Type Mix</h3><div class='mix'><div class='mix-row'><span>Stock</span><strong>66.4%</strong></div><div class='mix-row'><span>ETF</span><strong>14.0%</strong></div><div class='mix-row'><span>Bond</span><strong>10.7%</strong></div><div class='mix-row'><span>Deposit</span><strong>8.9%</strong></div></div></article>
+      </div>
+      <div class='table-wrap'><table><thead><tr><th>NAME</th><th>TICKER</th><th>REGION</th><th>TYPE</th><th>WT</th><th>VALUE</th></tr></thead><tbody><tr><td>NVIDIA</td><td>NVDA</td><td>US</td><td>Stock</td><td>18.5%</td><td>$222,000.00</td></tr><tr><td>Samsung Electronics</td><td>005930.KS</td><td>KR</td><td>Stock</td><td>11.0%</td><td>₩132,000</td></tr><tr><td>Bitcoin</td><td>BTC-USD</td><td>US</td><td>Bond</td><td>7.2%</td><td>$87,000.00</td></tr><tr><td>SPDR S&amp;P 500 ETF</td><td>SPY</td><td>US</td><td>ETF</td><td>9.5%</td><td>$114,000.00</td></tr><tr><td>KRW Time Deposit</td><td>KRW-CD</td><td>KR</td><td>Deposit</td><td>6.0%</td><td>₩72,000</td></tr><tr><td>NAVER</td><td>035420.KS</td><td>KR</td><td>Stock</td><td>4.0%</td><td>₩48,000</td></tr><tr><td>SK hynix</td><td>000660.KS</td><td>KR</td><td>Stock</td><td>5.0%</td><td>₩60,000</td></tr><tr><td>LG Energy Solution</td><td>373220.KS</td><td>KR</td><td>Stock</td><td>3.5%</td><td>₩42,000</td></tr><tr><td>LG Chem</td><td>051910.KS</td><td>KR</td><td>Stock</td><td>3.0%</td><td>₩36,000</td></tr></tbody></table></div>
+    </section>
+    
+  </main>
+</body>
+</html>
